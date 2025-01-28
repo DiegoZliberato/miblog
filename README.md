@@ -17,5 +17,5 @@ me gusto esta foto de este perro
 * mucho conocimiento
 * Creado por el ing diego liberato 
 * incluye varios archivos en el repositorio
-
+* disponible ne git hub para todos
 ###End
